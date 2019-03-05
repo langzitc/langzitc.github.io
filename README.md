@@ -1,2 +1,2 @@
-# tuchun.github.io
-personal github blog
+# langzitc.github.io
+Personal Technology Blog
